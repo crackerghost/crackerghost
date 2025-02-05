@@ -1,5 +1,12 @@
-# 💫 About Me:
-I am a fullstack developer 
+# 👋 Hi, I'm Raj Tilak Singh!  
+
+## 💻 Full-Stack Developer | MERN Stack | Android | AI/ML Enthusiast  
+
+### 🚀 About Me  
+I am a passionate **Full-Stack Developer** with expertise in:  
+✔ **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+✔ **Android Development (Java, XML, Firebase)**  
+✔ **Python for AI/ML (TensorFlow, Pandas, NumPy)**  
 
 
 ## 🌐 Socials:
